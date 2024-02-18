@@ -1,0 +1,5 @@
+iss : iss.csv
+core : core.csv
+2625 instructions left in trace core
+[FAILED]: 0 matched, 2625 mismatch
+
